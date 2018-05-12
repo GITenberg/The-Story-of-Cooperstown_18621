@@ -1,0 +1,30 @@
+_repo: The-Story-of-Cooperstown_18621
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Birdsall, Ralph
+    birthdate: 1871
+    deathdate: 1918
+    gutenberg_agent_id: '8153'
+    url: http://www.gutenberg.org/2009/agents/8153
+description: '<p>Dapper, brilliant Monsieur Poirot, retired as the Chief of Belgian
+  police, is summoned to a magnificent old English country estate to solve a murder.
+  The victim: a wealthy heiress. The suspects: her fortune-hunting husband, her jealous
+  relatives, her hired companion. The solution: a deadly scheme that is revealed by
+  the master detective himself.'
+gutenberg_issued: '2006-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooperstown, N.Y.'
+- !lcc 'F106'
+title: The Story of Cooperstown
+url: http://www.gutenberg.org/ebooks/18621
